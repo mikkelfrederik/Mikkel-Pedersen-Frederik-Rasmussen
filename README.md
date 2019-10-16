@@ -1,1 +1,1 @@
-# Mikkel-Pedersen-Frederik-Rasmussen
+# Radiance based Grasshopper workflow for daylight analysis
